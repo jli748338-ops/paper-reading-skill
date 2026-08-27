@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper Reading"
+  short_description: "按固定结构深度拆解论文并生成复盘 Markdown"
+  default_prompt: "Use $paper-reading to 帮我详细阅读这一篇论文，并生成结构化复盘 Markdown。"
+policy:
+  allow_implicit_invocation: true
